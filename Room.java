@@ -1,6 +1,6 @@
 package MUD;
 
-class Room implements IGameEntity {
+public class Room implements IGameEntity {
     String name;
     String description;
 
